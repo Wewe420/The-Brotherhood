@@ -5,7 +5,7 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 
-NationIcons/Nod
+NationIcons/Nod.png
   rotate: false
   xy: 4, 4
   size: 100, 100
